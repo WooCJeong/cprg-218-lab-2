@@ -52,6 +52,7 @@ Instructions:
 Ingredients:
 - 1 pound spaghetti
 - 1 pound ground beef
+- 1/4 pound bacon
 - 1/2 cup bread crumbs
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
@@ -75,6 +76,7 @@ Ingredients:
 - 2 boneless, skinless chicken breasts
 - Salt and pepper to taste
 - 2 tablespoons olive oil
+- 1/2 tablespoon red pepper sauce
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
