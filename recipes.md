@@ -7,8 +7,10 @@
 - [Entrees](#entrees)
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
+    - [Tuna Kimbap](#Tuna-Kimbap)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Affogato](#affogato)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -91,6 +93,31 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
+### Tuna Kimbap
+
+Ingredients:
+- 2 cups cooked white rice
+- 5 sheets of seaweed
+- 1 can (5 oz) tuna, drained
+- 1 tablespoon mayonnaise
+- 1 teaspoon soy sauce
+- 1/2 cucumber, julienned
+- 1 carrot, julienned
+- 1/2 avocade, sliced
+- Sesame seeds
+- Pickled radish
+
+Instructions:
+1. In a small bowl, mix the drained tuna, mayonnaise, and soy sauce until well combined.
+2. Place a sheet of seaweed on a bamboo Kimbap mat or a clean kitchen towel.
+3. Spread a thin layer of white rice evenly over the seaweed, leaving about 1 inch of space at the top.
+4. Arrange a line of tuna mixture, cucumber, carrot, and avocado (if using) along the bottom edge of the rice.
+5. Carefully roll the seaweed and rice over the filling, using the bamboo mat or kitchen towel to help shape it into a tight cylinder.
+6. Seal the edge of the seaweed with a little water.
+7. Using a sharp knife, slice the kimbap into bite-sized pieces.
+8. Sprinkle sesame seeds on top if desired, and serve with pickled radish on the side.
+
+
 ## Desserts
 ### Chocolate Chip Cookies
 
@@ -123,7 +150,7 @@ Ingredients:
 - 1 shot (about 1oz) hot espresso
 
 Instructions:
-- Scoop the vanilla ice cream into a serving glass or bowl.
-- Brew a fresh shot of hot espresso.
-- Pour the hot espresso directly over the ice cream.
-- Serve immediately and enjoy!
+1. Scoop the vanilla ice cream into a serving glass or bowl.
+2. Brew a fresh shot of hot espresso.
+3. Pour the hot espresso directly over the ice cream.
+4. Serve immediately and enjoy!
