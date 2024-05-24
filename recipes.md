@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Affogato
+
+Ingredients:
+- 2 scoops vanilla ice cream
+- 1 shot (about 1oz) hot espresso
+
+Instructions:
+- Scoop the vanilla ice cream into a serving glass or bowl.
+- Brew a fresh shot of hot espresso.
+- Pour the hot espresso directly over the ice cream.
+- Serve immediately and enjoy!
